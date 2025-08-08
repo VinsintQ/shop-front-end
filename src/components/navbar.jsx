@@ -6,13 +6,13 @@ const navbar = ()=>{
 
 
 return (<>
-
-<Link to="signin">signin</Link>
-
-
-
+<div>
+<Link to="/signin">signin</Link>
+<Link to="/SignUp">Sign Up</Link>
 
 
+
+</div>
 </>)
 
 
